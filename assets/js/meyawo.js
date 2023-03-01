@@ -1,10 +1,10 @@
 /*!
 =========================================================
-* Meyawo Landing page
+*Rony Inside CodeLanding page
 =========================================================
 
-* Copyright: 2019 DevCRUD (https://devcrud.com)
-* Licensed: (https://devcrud.com/licenses)
+* Copyright: 2023 Rony Inside Code (#)
+* Licensed: (#)
 * Coded by www.devcrud.com
 
 =========================================================
