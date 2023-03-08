@@ -4,13 +4,14 @@
 * Rony Inside Code Landing page
 =========================================================
 
-* Copyright: 28 jan 2023 Rony Inside code (https://github.com/RonyAgentSpp)
-* Coded by https://github.com/RonyAgentSpp
+* Copyright: 28 jan 2023 Rony Inside code (https://ronyagentspp.github.io/portifolio/)
+* Coded by https://ronyagentspp.github.io/portifolio/
 Ronaldo Lima dos Santos
 
 =========================================================
 
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+* The above copyright notice and this permission notice shall be 
+included in all copies or substantial portions of the Software.
 */
 @import url("https://fonts.googleapis.com/css?family=Baloo+Paaji|Open+Sans:300,300i,400,400i,600,600i,700,700i");
 :root {
@@ -90,6 +91,8 @@ h1, h2, h3, h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  margin-left: 0;
+  
 }
 
 abbr[title],
@@ -207,9 +210,14 @@ figure {
 img {
   vertical-align: middle;
   border-style: none;
-  border-radius: 200px;
+  border-radius: 265px;
+  text-align: center;
+ justify-content: center;
+  
   
 }
+
+
 
 svg {
   overflow: hidden;
@@ -11201,7 +11209,7 @@ p {
 
 .portfolio-card .portfolio-card-overlay {
   position: absolute;
-  top: 50%;
+  top: 65%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
